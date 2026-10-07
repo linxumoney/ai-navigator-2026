@@ -83,3 +83,8 @@ AI 助手将自动检索 `references/` 目录下的内容，引用对应嘉宾�
 ---
 
 *本知识库由 [林序聊AI](https://x.com/linxumoney) 整理，基于生财有术 AI 航海家大会 2026 现场内容。*
+
+## 商业授权
+
+个人学习、研究、测试和非商业使用可以。商业使用请先联系 **linxu.money@gmail.com** 获得授权，详见 [COMMERCIAL-LICENSING.md](COMMERCIAL-LICENSING.md)。
+
